@@ -1,2 +1,3 @@
 # PrimerProyectoJava
-proyecto
+Proyecto
+Elavorar una calculadora
